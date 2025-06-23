@@ -2,7 +2,8 @@
 The final project for Machine Learning 2 course
 This is the final report for the project:
 https://docs.google.com/document/d/19Ib9A4XOq_6IN2JGbrgpHPudohw_DFvPdNU3EqPUUoE/edit?usp=sharing
-
+The dataset we used:
+https://universe.roboflow.com/stubbornstrawsberries/fisheye8k/dataset/7
 1. Concept:
 - We chose a double pipeline model including Object Detecton and Object Classifcation
 - Model used: YOLOV11m (Object Detection), Resnet50/EfficientNetB0/YOLOV11m (Object Classification)
