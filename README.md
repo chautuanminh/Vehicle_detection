@@ -1,4 +1,4 @@
-# FINAL_ML2
+# Vehicle Detection
 Final report for the project:
 https://docs.google.com/document/d/19Ib9A4XOq_6IN2JGbrgpHPudohw_DFvPdNU3EqPUUoE/edit?usp=sharing
 The dataset :
